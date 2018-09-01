@@ -1,0 +1,32 @@
+STRAHLENSAETZE
+---------------
+
+Die Strahlensaetze gelten fuer folgende Abbildung, wenn gilt: Strecke "AB" parallel zu Strecke "CD".
+
+			      .
+		          D.
+		        .  |
+		     .     |
+	         B.        |
+	       .  |        |
+	    .     |        |
+	S.        |        |
+	    .     |        |
+               .  |        |
+		 A.        |
+	             .     |
+  			.  |
+			  C.
+			      .
+
+1. Strahlensatz: (S + A) / (S + C) = (S + B) / (S + D)
+                 (S + A) / (A + C) = (S + B) / (B + D)
+
+   Werden 2 Geraden, die sich schneiden, von zwei Parallelen geschnitten: dann verhalten sich beliebige Abschnitte 
+   auf der einen Geraden wie die entsprechendne Abschnitte auf der anderen Geraden.
+
+2. Strahlensatz: (A + B) / (C + D) = (S + A) / (S + C)
+		 (A + B) / (C + D) = (S + B) / (S + D)
+
+   Werden 2 Geraden, die sich schneiden, von zwei Parallelen geschnitten: dann verhalten sich die Parallelabschnitte 
+   zwischen den Geraden zueinander wie die Abschnitte der vom Scheitelpunkt aus gemessenen Geradenstuecke.

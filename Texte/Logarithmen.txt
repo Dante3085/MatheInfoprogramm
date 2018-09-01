@@ -1,0 +1,23 @@
+LOGARITHMEN
+------------
+
+Allgemeines
+------------
+1. a^(b) = c => loga(c) = b
+   "a" nach dem "log" ist die "Basis". "c" in den Klammern ist das "Argument" und "b" ist der Exponent.
+
+Merksatz
+---------
+Der Logarithmus dient also dazu fuer das "a" den passenden Exponenten "b" zu finden, damit "c" herauskommt
+bzw. c als Potenz zur Basis a dargestellt werden kann.
+=> Der Logarithmus sucht einen passenden Exponenten.
+Beispiel: log25(5) = x (Mit was muss 25 potenziert werden, damit 5 rauskommt ?) x = 0,5
+	  25^(0,5) = 5
+
+Logarithmengesetze
+-------------------
+1. Gesetz: loga(c * d) = loga(c) + loga(d)
+
+2. Gesetz: loga(c / d) = loga(c) - loga(d)
+
+3. Gesetz: loga(c^(m)) = m * loga(c)

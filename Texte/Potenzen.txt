@@ -1,0 +1,23 @@
+POTENZEN
+---------
+
+Allgemein
+----------
+1. Das "Potenzieren" ist eine verkuerzte Schreibweise für wiederholte Multiplikation.
+2. Eine Zahl, die potenziert wird, heisst "Basis". Unten sind dies die Buchstaben "a" und "b".
+3. Die kleine Zahl, die oben rechts ueber der Basis steht bzw. hier nach dem "^", nennt sich
+   Exponent.
+4. Der Exponent gibt immer an, wie oft die Basis mit sich selbst multipliziert wird.
+   Beispiel: 5^(3) = 5 * 5 * 5 = 125  
+
+Potenzgesetze
+---------------
+1. Gesetz: a^(m) * a^(n) = a^(m + n)		(gleiche Basis, aber verschiedene Exponenten)
+
+2. Gesetz: a^(m) / a^(n) = a^(m - n)		(gleiche Basis, aber verschiedene Exponenten)
+
+3. Gesetz: a^(m) * b^(m) = (a * b)^(m)		(verschiedene Basen, aber gleiche Exponenten)
+
+4. Gesetz: a^(m) / b^(m) = (a / b)^(m)		(verschiedene Basen, aber gleiche Exponenten)
+
+5. Gesetz: (a^(m))^(n)   = a^(m * n) 		(Potenzieren von Potenzen)

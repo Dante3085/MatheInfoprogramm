@@ -1,0 +1,4 @@
+DISTRIBUTIVGESETZ
+------------------
+
+Gesetz: a * (b + c) = a * b + b * c

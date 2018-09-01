@@ -1,0 +1,29 @@
+SUBSTITUTION
+-------------
+
+Allgemein
+----------
+1. Die Substitution dient der Umformung von Gleichungen, hoeheren Grades als 2, damit diese
+   wieder mit Methoden wie der P-Q-Formel zu loesen sind.
+
+2. Um dann das korrekte Ergebnis fuer die Gleichung hoeheren Grades als 2 zu bekommen,
+   muss man eine Ruecksubstitution durchfuehren.
+
+3. Substitutionen koennen immer angewandt werden, wenn die hoehere Hochzahl in der Ursprungs-
+   gleichung das doppelte der kleineren Hochzahl ist (z.B.: x^(6) + x^(3) + 4).
+
+Anwendung
+----------
+x^(4) - 13x^(2) + 36 = 0 (Diese Gleichung ist zunaechst nicht mit der P-Q-Formel loesbar).
+
+Substitution: x^(4) = z^(2), x^(2) = z	=>  z^(2) - 13z + 36
+
+P-Q-Formel anwenden ...
+
+Loesungen: z1 = 9 und z2 = 4
+
+Ruecksubstitution: x^(2) = 9 | 2-te Wurzel aus 9
+		   x1 = 3 und x2 = -3
+	          
+                   x^(2) = 4 | 2-te Wurzel aus 4
+		   x3 = 2 und x4 = -2

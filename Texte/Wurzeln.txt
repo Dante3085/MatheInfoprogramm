@@ -1,0 +1,28 @@
+WURZELN
+--------
+
+Allgemein
+--------------
+1. n-te Wurzel von a = a^(1 / n)
+Beispiel : 2-te Wurzel aus 49 = 49^(1 / 2) = 7
+
+2. Der Ausrduck unter der Wurzel, im oberen Fall "a" oder "49", nennt sich "Radikand".
+
+Wurzelgesetze
+--------------
+1. Gesetz:   (n-te Wurzel von a) * (n-te Wurzel von b) = n-te Wurzel von a * b
+   Beispiel: (2-te Wurzel von 9) * (2-te Wurzel 4)     = 2-te Wurzel von 9 * 4 = 6
+
+2. Gesetz:  (n-te Wurzel von a) / (n-te Wurzel von b)  = n-te Wurzel von a / b
+   Beispiel:(2-te Wurzel von 20) / (2-te Wurzel von 5)  = 2-te Wurzel von 20 / 5 = 2
+
+Anwendung
+----------
+x^(3) = 8 | 3-te Wurzel ziehen
+x     = 2 
+(X ist die Zahl, die 3-mal mit sich selbst mal genommen "8" ergibt.)
+
+Merksatz
+---------
+Durch das Wurzelziehen eliminiert man den Exponenten, um eine Loesung fuer die Basis
+zu erhalten.

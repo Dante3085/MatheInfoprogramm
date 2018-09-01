@@ -1,0 +1,20 @@
+SONDERFAELLE: POTENZEN WURZELN LOGARITHMEN
+-------------------------------------------
+
+Merke
+------
+1. a^(0) = 1, da a^(0) = a^(7 - 7) = (a^(7) / a^(7)) ["7" kann gekürzt werden] = 1
+
+2. 1 / a^(m) = a^(-m), da 1 / a^(m) = (a^(0) / a^(m)) = a^(0 - m) = a^(-m)
+
+3. n-te Wurzel von a^(n) = a
+
+4. loga(a) = 1
+
+5. loga(1) = 0
+
+6. n-te Wurzel von a = a^(1 / n), da n-te Wurzel von a^(n) = (a^(n))^(1 / n) = a^(n / n) [n / n = 1] = a
+
+7. n-te Wurzel von a^(m) = a^(m / n)
+
+8. loga(n-te Wurzel von a) = 1 / n * loga(a)
